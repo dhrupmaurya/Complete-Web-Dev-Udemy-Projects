@@ -39,4 +39,4 @@ I will be working with the following technologies:
 
 ---
 
-📌 I will keep updating this repository as I progress through the course. Stay tuned for more projects! 🎯  
+ 
