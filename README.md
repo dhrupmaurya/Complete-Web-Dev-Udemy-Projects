@@ -1,2 +1,2 @@
 # Complete-Web-Dev-Udemy-Projects 
-This is a new journey
+This is a new journey to learn web development. I will be following the Complete Web Development Bootcamp course on Udemy. This repository will guide you through all the projects done in this complete web development course. I will be using HTML, CSS, JavaScript, React, Node.js, Express .....
