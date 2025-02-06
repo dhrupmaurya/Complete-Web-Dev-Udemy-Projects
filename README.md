@@ -1,4 +1,4 @@
-# 🚀 Complete Web Development Udemy Projects  
+# 🚀 Complete Web Development Udemy Projects  by Dhrup
 
 This repository documents my journey in learning web development through **The Complete Web Development Bootcamp** course on Udemy. It contains all the projects and concepts covered throughout the course.  
 
